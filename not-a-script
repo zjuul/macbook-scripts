@@ -1,0 +1,4 @@
+#/bin/bash
+
+# this is not a script, but a test to check if github will warn me if I put this here
+curl https://hooks.slack.com/services/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d
